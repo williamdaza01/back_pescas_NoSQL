@@ -1,0 +1,13 @@
+[{
+  "ID_CUENCA": 1,
+  "NOMBRE_CUENCA": "Río Magdalena"
+},{
+  "ID_CUENCA": 2,
+  "NOMBRE_CUENCA": "Río Orinoco"
+},{
+  "ID_CUENCA": 3,
+  "NOMBRE_CUENCA": "Río Amazonas"
+},{
+  "ID_CUENCA": 4,
+  "NOMBRE_CUENCA": "Río Sinú"
+}]

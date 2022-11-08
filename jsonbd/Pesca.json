@@ -1,0 +1,19 @@
+[{
+  "ID_METODO": 2,
+  "FECHA_PESCA": "2022-10-12",
+  "PESO_PESCADO": 32,
+  "ID_CUENCA": 2,
+  "ID_PESCA": 1
+},{
+  "ID_PESCA": 9,
+  "ID_CUENCA": 1,
+  "ID_METODO": 4,
+  "FECHA_PESCA": "2022-10-15",
+  "PESO_PESCADO": 12
+},{
+  "ID_PESCA": 10,
+  "ID_CUENCA": 3,
+  "ID_METODO": 1,
+  "FECHA_PESCA": "2022-10-16",
+  "PESO_PESCADO": 20
+}]
